@@ -1,7 +1,7 @@
 # RMT2LZSS
 C# RMT 1.28 player (C# version of the original 6502 asm player)
 
-(I named it RMT2LZSS but it should really be RMT2SAPR as it doesn't contain the LZSS compressor by dmsc)
+(I named it RMT2LZSS but it should really be RMT2SAPR as it doesn't contain the LZSS compressor by dmsc available at https://github.com/dmsc/lzss-sap)
 
 Just create an empty C# project and add the files. Then run it with the following sequence:
 
