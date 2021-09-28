@@ -18,8 +18,6 @@ Just create an empty C# project and add the files. Then run it with the followin
 
             RMT.Player.PlaybackSpeed playSpeed = rmtPlayer.Init(SongsStartLine[0], false, volumeOffsets);
 
-            playSpeed = rmtPlayer.Init(SongsStartLine[0], false, volumeOffsets);
-
             List<byte> pokeyBufL = null;
             List<byte> pokeyBufR = null;
             int loopFrame = 0;
